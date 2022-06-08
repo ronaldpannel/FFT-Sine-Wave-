@@ -24,7 +24,6 @@ function drawCircle() {
   let y = radius * Math.sin(1 * time);
    wave.unshift(y)
  
-console.log(wave.length)
  
 
   // Static Circle
